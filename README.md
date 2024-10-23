@@ -20,4 +20,5 @@ The user chooses the option, writes the value in the base currency and receives 
 <img src="https://github.com/user-attachments/assets/bfcd6db8-661d-4cc5-964c-6dd58498070b" alt="Program after choosing the option 1" width="800" height="700">
 
 The menu will continue to show and the user can keep using the program until it uses the Exit option.
+
 <img src="https://github.com/user-attachments/assets/4bbabe6c-cc55-4764-81fe-eb053ff48701" alt="End of program" width="400" height="300">
