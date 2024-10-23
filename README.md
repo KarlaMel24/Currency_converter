@@ -11,7 +11,7 @@ Overwiew of the program
 
 Menu:
 This version allows the exchage between the following currencies:
-<img src="https://github.com/user-attachments/assets/945c2ad6-96c6-46b9-a1f9-7c5318e32671" width=100>
+<img src="https://github.com/user-attachments/assets/945c2ad6-96c6-46b9-a1f9-7c5318e32671" alt="Menu of the program" width="500" height="500">
 
 
 Funtionality:
