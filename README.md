@@ -10,8 +10,9 @@ Requirements
 Overwiew of the program
 
 Menu:
-This version allows the exchage between the following currencies.
-![image](https://github.com/user-attachments/assets/945c2ad6-96c6-46b9-a1f9-7c5318e32671)
+This version allows the exchage between the following currencies:
+![image](https://github.com/user-attachments/assets/945c2ad6-96c6-46b9-a1f9-7c5318e32671 = 250x250)
+
 
 Funtionality:
 ![image](https://github.com/user-attachments/assets/bfcd6db8-661d-4cc5-964c-6dd58498070b)
